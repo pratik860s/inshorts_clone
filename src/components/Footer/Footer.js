@@ -10,9 +10,9 @@ const Footer = () => {
         </span>
         <hr style={{width:"90%"}}/>
         <div className='iconContainer'>
-        <a href='https://www.instagram.com/_pratik.me' target='_blank'><i className='fab fa-instagram-square fa-2x'></i></a>
-        <a href='https://www.linkedin.com/in/pratik860' target='_blank'><i className='fab fa-linkedin fa-2x'></i></a>
-        <a href='https://pratikjsx.netlify.app/' target='_blank'><i className='fas fa-link fa-2x'></i></a>
+        <a href='https://www.instagram.com/_pratik.me' target='__blank'><i className='fab fa-instagram-square fa-2x'></i></a>
+        <a href='https://www.linkedin.com/in/pratik860' target='__blank'><i className='fab fa-linkedin fa-2x'></i></a>
+        <a href='https://pratikjsx.netlify.app/' target='__blank'><i className='fas fa-link fa-2x'></i></a>
         </div>
     </div>
   )
